@@ -1,0 +1,16 @@
+{
+  "name": "dbconfig",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "keywords": [
+      "postgres",
+      "sql",
+      "database",
+      "server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "pg": "^8.5.0"
+  }
+}
